@@ -79,8 +79,8 @@ namespace TestGitMerge
 
             Init();
 
-            Report.Log(ReportLevel.Info, "Website", "Opening web site 'http://www.yahoo.com' with browser 'Chrome' in normal mode.", new RecordItemIndex(0));
-            Host.Current.OpenBrowser("http://www.yahoo.com", "Chrome", "", false, false, false, false, false);
+            Report.Log(ReportLevel.Info, "Website", "Opening web site 'http://www.yahoo111.com' with browser 'Chrome' in normal mode.", new RecordItemIndex(0));
+            Host.Current.OpenBrowser("http://www.yahoo111.com", "Chrome", "", false, false, false, false, false);
             Delay.Milliseconds(0);
             
         }
