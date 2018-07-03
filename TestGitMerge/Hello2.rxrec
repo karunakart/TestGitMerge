@@ -47,6 +47,23 @@ rxversion="8.1">
 				http://www.ranorex.com
 			</url>
 		</openwebsiterecorditem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="500ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="c72268f8-e000-4eab-a9c4-2f69a648dc00"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</mouseitem>
 	</recorditems>
 	<repository
 	id="5363f0a2-ea3a-4494-a294-41fc0e94896e"

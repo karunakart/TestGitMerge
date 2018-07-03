@@ -83,6 +83,11 @@ namespace TestGitMerge
             Host.Current.OpenBrowser("http://www.ranorex.com", "Chrome", "", false, true, false, false, false);
             Delay.Milliseconds(0);
             
+            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click at {X=0,Y=0}.", new RecordItemIndex(1));
+            Mouse.MoveTo(0, 0);
+            Mouse.Click(System.Windows.Forms.MouseButtons.Left);
+            Delay.Milliseconds(200);
+            
         }
 
 #region Image Feature Data
