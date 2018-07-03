@@ -8,12 +8,6 @@ rxversion="8.1">
 			name="TestGitMerge"
 			reportlevel="Info;20">
 			</testcase>
-			<testmodule
-			id="1a46760c-76a5-45aa-a6d6-5f2a68078ba1"
-			name="Hello2"
-			ref="cd7b1027-285a-44c5-95b7-94cbec3ebb2d"
-			type="Recording">
-			</testmodule>
 			<testcase
 			id="85a05484-2729-4ffb-b07f-8678a9e16c13"
 			name="TestCase">
@@ -32,6 +26,12 @@ rxversion="8.1">
 			reportwriteinterval="30000ms"
 			showinvisiblechars="True">
 			</testsuite>
+			<testmodule
+			id="c26fbe32-7cf5-4e22-b048-6ea9b551eea8"
+			name="Hello3"
+			ref="a5a73e4f-a1d8-4e3f-a666-e6d941d4f126"
+			type="Recording">
+			</testmodule>
 			<testmodule
 			id="cacf53b7-4364-4818-97bb-745425f1c208"
 			name="Hello_1"
@@ -54,8 +54,8 @@ rxversion="8.1">
 						name="Hello_1">
 						</testmodule>
 						<testmodule
-						id="1a46760c-76a5-45aa-a6d6-5f2a68078ba1"
-						name="Hello2">
+						id="c26fbe32-7cf5-4e22-b048-6ea9b551eea8"
+						name="Hello3">
 						</testmodule>
 					</testcase>
 				</testcase>
