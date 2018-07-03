@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.1">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="TestGitMerge"
+      id="70bb4e2c-2eec-4efb-b148-4ec7b2cb8f5e"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="TestGitMerge"
+      id="70bb4e2c-2eec-4efb-b148-4ec7b2cb8f5e"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="ac46c5d0-fe52-407b-8c91-6db105877954"
+mode="Global"
+rxversion="8.1">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="TestGitMerge">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="5363f0a2-ea3a-4494-a294-41fc0e94896e"
+	name="TestGitMergeRepository"
+	relativepath="TestGitMergeRepository.rxrep"
+	rxversion="8.1">
+		<codegen
+		classname="TestGitMergeRepository"
+		namespace="TestGitMerge">
+		</codegen>
+		<rootfolder
+		id="81d402c7-c59d-464e-a5da-f40010fb3e89"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

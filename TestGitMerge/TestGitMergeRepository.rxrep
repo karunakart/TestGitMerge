@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="TestGitMergeRepository"
+id="5363f0a2-ea3a-4494-a294-41fc0e94896e"
+rxversion="8.1">
+  <codegen
+  classname="TestGitMergeRepository"
+  namespace="TestGitMerge"/>
+  <rootfolder
+  name="Root"
+  id="81d402c7-c59d-464e-a5da-f40010fb3e89"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
