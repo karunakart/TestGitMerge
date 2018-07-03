@@ -88,8 +88,14 @@ namespace TestGitMerge
             Mouse.Click(System.Windows.Forms.MouseButtons.Left);
             Delay.Milliseconds(200);
             
+<<<<<<< Updated upstream
             Report.Log(ReportLevel.Info, "Delay", "Waiting for 500ms.", new RecordItemIndex(2));
             Delay.Duration(500, false);
+=======
+            Report.Log(ReportLevel.Info, "Website", "Opening web site 'http://www.ranorex.com' with browser 'IE' in normal mode.", new RecordItemIndex(2));
+            Host.Current.OpenBrowser("http://www.ranorex.com", "IE", "", false, false, false, false, false);
+            Delay.Milliseconds(0);
+>>>>>>> Stashed changes
             
         }
 

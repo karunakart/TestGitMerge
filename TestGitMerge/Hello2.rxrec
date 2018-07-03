@@ -64,15 +64,23 @@ rxversion="8.1">
 			<bindings>
 			</bindings>
 		</mouseitem>
+
 		<explicitdelayitem
 		duration="500ms"
 		enabled="True"
+
 		optional="False">
 			<comment>
 			</comment>
 			<bindings>
 			</bindings>
 		</explicitdelayitem>
+
+			<url>
+				http://www.ranorex.com
+			</url>
+		</openwebsiterecorditem>
+
 	</recorditems>
 	<repository
 	id="5363f0a2-ea3a-4494-a294-41fc0e94896e"
