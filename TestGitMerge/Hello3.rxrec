@@ -74,6 +74,24 @@ rxversion="8.1">
 				http://www.ranorex.com
 			</url>
 		</openwebsiterecorditem>
+		<openwebsiterecorditem
+		args=""
+		browser="Chrome"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		killexisting="False"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				http://www.google.com
+			</url>
+		</openwebsiterecorditem>
 	</recorditems>
 	<repository
 	id="5363f0a2-ea3a-4494-a294-41fc0e94896e"
