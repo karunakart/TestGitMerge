@@ -48,7 +48,7 @@ rxversion="8.1">
 			</url>
 		</openwebsiterecorditem>
 		<explicitdelayitem
-		duration="500ms"
+		duration="10000ms"
 		enabled="True"
 		optional="False">
 			<comment>
@@ -56,6 +56,24 @@ rxversion="8.1">
 			<bindings>
 			</bindings>
 		</explicitdelayitem>
+		<openwebsiterecorditem
+		args=""
+		browser="Chrome"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		killexisting="False"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				http://www.ranorex.com
+			</url>
+		</openwebsiterecorditem>
 	</recorditems>
 	<repository
 	id="5363f0a2-ea3a-4494-a294-41fc0e94896e"
