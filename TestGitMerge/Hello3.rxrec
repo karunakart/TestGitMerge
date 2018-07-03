@@ -47,6 +47,15 @@ rxversion="8.1">
 				http://www.yahoo111.com
 			</url>
 		</openwebsiterecorditem>
+		<explicitdelayitem
+		duration="500ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
 	</recorditems>
 	<repository
 	id="5363f0a2-ea3a-4494-a294-41fc0e94896e"

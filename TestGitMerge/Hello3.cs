@@ -83,6 +83,9 @@ namespace TestGitMerge
             Host.Current.OpenBrowser("http://www.yahoo111.com", "Chrome", "", false, false, false, false, false);
             Delay.Milliseconds(0);
             
+            Report.Log(ReportLevel.Info, "Delay", "Waiting for 500ms.", new RecordItemIndex(1));
+            Delay.Duration(500, false);
+            
         }
 
 #region Image Feature Data

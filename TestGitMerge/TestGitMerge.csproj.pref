@@ -4,11 +4,8 @@
   </Array>
   <Array name="bookmarks" />
   <Array name="files">
-    <Element value="TestGitMerge.rxtst" />
-    <Element value="Hello_1.rxrec" />
     <Element value="Hello3.rxrec" />
+    <Element value="TestGitMerge.rxtst" />
   </Array>
-  <Properties name="projectSavedData">
-    <Array name="recentusercodeselections" />
-  </Properties>
+  <Properties name="projectSavedData" />
 </Properties>
