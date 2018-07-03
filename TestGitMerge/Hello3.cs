@@ -90,6 +90,10 @@ namespace TestGitMerge
             Host.Current.OpenBrowser("http://www.ranorex.com", "Chrome", "", false, false, false, false, false);
             Delay.Milliseconds(0);
             
+            Report.Log(ReportLevel.Info, "Website", "Opening web site 'http://www.google.com' with browser 'Chrome' in normal mode.", new RecordItemIndex(3));
+            Host.Current.OpenBrowser("http://www.google.com", "Chrome", "", false, false, false, false, false);
+            Delay.Milliseconds(0);
+            
         }
 
 #region Image Feature Data
