@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="98eae2e2-96b8-44c3-88cd-382ff0ec7510"
+mode="Global"
+rxversion="8.1">
+	<name>
+		Hello_1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Hello_1"
+	namespace="TestGitMerge">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="Chrome"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		killexisting="False"
+		maximized="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				http://www.google.com
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="5363f0a2-ea3a-4494-a294-41fc0e94896e"
+	name="TestGitMergeRepository"
+	relativepath="TestGitMergeRepository.rxrep"
+	rxversion="8.1">
+		<codegen
+		classname="TestGitMergeRepository"
+		namespace="TestGitMerge">
+		</codegen>
+		<rootfolder
+		id="81d402c7-c59d-464e-a5da-f40010fb3e89"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Hello_1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
